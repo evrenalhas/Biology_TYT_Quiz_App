@@ -16,8 +16,8 @@ Merhaba! Bu projede sizlerle, Python programlama dili kullanarak geliştirdiğim
 4) main.exe dosyasına çift tıklayın veya `py main.py` komutunu kullanarak uygulamayı başlatın.
 
 ### İletişim Bilgisi
-• Instagram: @evrenalhas
-• LinkedIn: https://www.linkedin.com/in/evrenalhas/
+• Instagram: @evrenalhas  
+• LinkedIn: https://www.linkedin.com/in/evrenalhas/  
 • Mail: evrenalhas@gmail.com
 
 Ayrıca ashutoshkrris'e kibar tutumu ve kodundan faydalanmama izin verdiği için teşekkür ediyorum.
