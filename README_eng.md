@@ -17,7 +17,8 @@ Hello! In this project, I am sharing the "TYT Bio Evren Quiz Application" that I
 
 ### Contact Info
 • Instagram: @evrenalhas
-•LinkedIn: https://www.linkedin.com/in/evrenalhas/
+
+• LinkedIn: https://www.linkedin.com/in/evrenalhas/
 • Mail: evrenalhas@gmail.com
 
 Also special thanks to ashutoshkrris for his kind behaviour and letting me benefit his code!
