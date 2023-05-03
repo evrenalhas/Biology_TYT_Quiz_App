@@ -16,9 +16,9 @@ Hello! In this project, I am sharing the "TYT Bio Evren Quiz Application" that I
 4) Start the application using the `py main.py` command or double-clicking main.exe.
 
 ### Contact Info
-Instagram: @evrenalhas
-LinkedIn: https://www.linkedin.com/in/evrenalhas/
-Mail: evrenalhas@gmail.com
+• Instagram: @evrenalhas
+•LinkedIn: https://www.linkedin.com/in/evrenalhas/
+• Mail: evrenalhas@gmail.com
 
 Also special thanks to ashutoshkrris for his kind behaviour and letting me benefit his code!
 
