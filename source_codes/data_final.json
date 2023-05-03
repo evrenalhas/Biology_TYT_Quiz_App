@@ -1,0 +1,481 @@
+[{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "İnorganikler vücutta düzenleyici olarak görev alırlar mı?",
+        "correct_answer": "Evet",
+        "incorrect_answers": [
+        "Hayır",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "5 karbonlu şekere ne ad verilir?",
+        "correct_answer": "Pentoz",
+        "incorrect_answers": [
+        "Diboz",
+        "Heksoz",
+        "Maltoz"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Aşağıdaki vitaminlerden hangisi yağda çözünmez?",
+        "correct_answer": "B",
+        "incorrect_answers": [
+        "E",
+        "D",
+        "K"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Substrat nedir?",
+        "correct_answer": "Enzimin etki ettiği edilgen maddedir.",
+        "incorrect_answers": [
+        "Enzim etkisini hızlandırıcıdır.",
+        "Reaksiyonun başlaması için gereken sıcaklık değeridir.",
+        "Bir enzimdir."
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Aşağıdakilerden hangisi düzenleyici görev yapmaz?",
+        "correct_answer": "Yağ",
+        "incorrect_answers": [
+        "Su",
+        "Mineral",
+        "Protein"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hücre zarı ile ilgili aşağıdakilerden hangisi yanlıştır?",
+        "correct_answer": "Tek katlı azot yapılıdır.",
+        "incorrect_answers": [
+        "Saydam ve seçici geçirgendir.",
+        "Yapısında protein ve yağ bulundurur.",
+        "Yapısında karbonhidrat bulundurur."
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Ribozom zarsız bir organel midir?",
+        "correct_answer": "Evet.",
+        "incorrect_answers": [
+        "Hayır.",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Sentrozom ile ilgili aşağıdakilerden kaç tanesi doğrudur?\n\n• İki sentriyolden oluşur.\n• Bölünme esnasında kendini eşler.\n• Çift zarlı bir organeldir.\n\n\n",
+        "correct_answer": "3",
+        "incorrect_answers": [
+        "1",
+        "2",
+        "0"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Lizozom organeli ile ilgili aşağıdakilerden kaç tanesi hatalıdır?\n\n• Hücrede sindirim olaylarından sorumludur.\n• Hücrede organellerin parçalanmasına otoliz denir.\n• Otofaji olayı burada gerçekleşir.\n\n\n",
+        "correct_answer": "1",
+        "incorrect_answers": [
+        "3",
+        "2",
+        "Hepsi doğrudur."
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Aşağıdakilerden hangisi yanlıştır?",
+        "correct_answer": "Pasif taşımada hücrede canlılık gerekir.",
+        "incorrect_answers": [
+        "Aktif taşıma sırasında moleküller porlardan geçerler.",
+        "Aktif taşımada canlılık gerekmez.",
+        "Aminoasitlerin geçisi kolaylaştırılmış difüzyon ile sağlanır."
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "\"Endositoz, koful yardımı ile yapılır.\" İfadesi doğru bir ifade midir?",
+        "correct_answer": "Evet.",
+        "incorrect_answers": [
+        "Hayır.",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Pinositoz ve Fagositoz hücre zarından geçemeyecek kadar büyük maddelerin hücreye alınmasıdır.",
+        "correct_answer": "Doğru",
+        "incorrect_answers": [
+        "Yanlış",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Osmoz olayında su, osmotik basıncın az olduğu yerden fazla olduğu yere doğru hareket eder.",
+        "correct_answer": "Doğru",
+        "incorrect_answers": [
+        "Yanlış",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "\"Koenzimler, enzimlerin inaktif halden aktif hale geçmesini sağlayan inorganik moleküllerdir.\" ifadesi doğru mudur?",
+        "correct_answer": "Hayır",
+        "incorrect_answers": [
+        "Evet",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Substrat düzeyinde fosforilasyon, ökaryotik bir hücrenin hangi kısmında gerçekleşir?",
+        "correct_answer": "Sitoplazma",
+        "incorrect_answers": [
+        "Mitokondri",
+        "Çekirdek",
+        "Kloroplast"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Verilen organlardan hangisinde peroksizom organelinin fazla olması beklenir?",
+        "correct_answer": "Karaciğer",
+        "incorrect_answers": [
+        "Akciğer",
+        "Beyin",
+        "Kalp"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "\"Hayvanlar aleminde yalnızca memeliler akciğer solunumu yapar.\" ifadesi doğru mudur?",
+        "correct_answer": "Hayır",
+        "incorrect_answers": [
+        "Evet",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Aşağıdaki şıklardan hangisinde sınıflandırma birimleri genelden özele doğru sıralanmıştır?",
+        "correct_answer": "Alem - Şube - Sınıf - Takım - Familya - Cins - Tür",
+        "incorrect_answers": [
+        "Alem - Sınıf - Şube - Takım - Familya - Cins - Tür",
+        "Alem - Sınıf - Şube - Takım - Familya - Tür - Cins",
+        "Alem - Şube - Sınıf - Cins - Familya - Takım - Tür"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "\"Binomial adlandırmada ikinci kelime türü belirler.\" ifadesi doğru mudur?",
+        "correct_answer": "Evet",
+        "incorrect_answers": [
+        "Hayır",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hangisi protista alemine dahil değildir?",
+        "correct_answer": "Sünger",
+        "incorrect_answers": [
+        "Amip",
+        "Trypanosoma",
+        "Paramesyum"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Açık tohumlu bitkiler hakkında hangisi doğru değildir?",
+        "correct_answer": "Tohumlar meyve içine gizlenmiştir.",
+        "incorrect_answers": [
+        "Tohumlarının etrafında kabuk bulundurmayan bitkilerdir.",
+        "Gerçek çiçekleri yoktur.",
+        "Çoğu iğne yapraklı ağaç ve çalılardan meydana gelir. "
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hayvanlar aleminde merkezi sinir sisteminin gözlendiği en ilkel canlı grubu hangisidir?",
+        "correct_answer": "Yassı solucan",
+        "incorrect_answers": [
+        "Yuvarlak solucan",
+        "Sünger",
+        "Deniz anası"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hangisi bakterilere ait bir özelliktir?",
+        "correct_answer": "Peptidoglikan yapılı hücre duvarına sahiplerdir.",
+        "incorrect_answers": [
+        "DNA veya RNA'dan birini bulundururlar.",
+        "Ökaryotik yapıdalardır.",
+        "Zarlı organeller bulundururlar."
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Kromozomların hücrenin ekvator sisteminde dizildikleri bölünme evresi hangisidir?",
+        "correct_answer": "Metafaz",
+        "incorrect_answers": [
+        "Anafaz",
+        "Telofaz",
+        "Profaz"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "2n=32 kromozom formülüne sahip kraliçe arıdan partenogenez yoluyla üreyen erkek arının kromozom formülü ne olur?",
+        "correct_answer": "n=16",
+        "incorrect_answers": [
+        "n=32",
+        "2n=32",
+        "2n=16"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Aşağıda verilen olaylardan hangisi doğrudan kalıtsal çeşitliliğe sebep olmaz?",
+        "correct_answer": "Tetrat oluşumu",
+        "incorrect_answers": [
+        "Kross over",
+        "Mayozun anafaz 1 evresinde kromozomların hücrelere dağılımı",
+        "Döllenme olayı"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "\"Bakteriler mitozla ürer.\" ifadesi doğru mudur?",
+        "correct_answer": "Hayır",
+        "incorrect_answers": [
+        "Evet",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hangisi bir vejetatif üreme şekli değildir?",
+        "correct_answer": "Rejenerasyonla üreme",
+        "incorrect_answers": [
+        "Rizomla üreme",
+        "Yumruyla üreme",
+        "Çelikle üreme"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Oogenez sonucu kaç adet kullanılabilir üreme hücresi üretilir?",
+        "correct_answer": "1",
+        "incorrect_answers": [
+        "2",
+        "4",
+        "8"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Diploid bir canlının 4 allel çeşidine sahip ve otozomlarda kalıtılan bir karakter bakımından sahip olduğu allel sayısı kaçtır?",
+        "correct_answer": "2",
+        "incorrect_answers": [
+        "4",
+        "3",
+        "1"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "AaBbccDd genotipine sahip bireyden AbCd genotipine sahip gametin oluşma olasılığı kaçtır?",
+        "correct_answer": "0",
+        "incorrect_answers": [
+        "25%",
+        "50%",
+        "100%"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hangisi aabbCcDDEe genotipine sahip canlı için doğrudur?",
+        "correct_answer": "Dihibrittir",
+        "incorrect_answers": [
+        "Monohibrittir.",
+        "Trihibrittir.",
+        "Hibrit özellik bulundurmamaktadır."
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Mendel, hangisi hakkında bilimsel araştırmada bulunmamıştır?",
+        "correct_answer": "Eş baskınlık",
+        "incorrect_answers": [
+        "Tam baskınlık",
+        "Bağımsız dağılım",
+        "Benzerlik"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "13. Kromozom çiftinde ayrılmama sonucu bireyin 47 kromozoma sahip olmasıyla ortaya çıkan sendrom hangisidir?",
+        "correct_answer": "Patau Sendromu",
+        "incorrect_answers": [
+        "Klinefelter Sendromu",
+        "Down Sendromu",
+        "Edwards Sendromu"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Kan uyuşmazlığı genotipleri verilen hangi iki birey arasında gözlemlenebilir?",
+        "correct_answer": "Anne: Rh- / bebek: Rh+",
+        "incorrect_answers": [
+        "Anne: Rh- / bebek: Rh-",
+        "Anne: Rh+ / bebek: Rh+",
+        "Anne: Rh+ / bebek: Rh-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Bir bireyin kanına A antijeni eklendiğinde aglütinasyon gözlemlenmiyor. Bu bireyin genotipi hangisi olamaz?",
+        "correct_answer": "B0rr",
+        "incorrect_answers": [
+        "A0rr",
+        "A0rr",
+        "ABRr"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Bir tarafın yarar sağladığı, diğer tarafınsa etkilenmediği simbiyotik yaşam tarzına verilen isim hangisidir?",
+        "correct_answer": "Kommensalizm",
+        "incorrect_answers": [
+        "Parazitizm",
+        "Amensalizm",
+        "Mutualizm"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "\"Bitkiler havadaki azotu doğrudan kullanamazlar.\" ifadesi doğru mudur?",
+        "correct_answer": "Evet",
+        "incorrect_answers": [
+        "Hayır",
+        "-",
+        "-"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Bir organizmanın yaşadığı ortamda yaptığı işe, göreve verilen isim aşağıdakilerden hangisidir?",
+        "correct_answer": "Ekolojik niş",
+        "incorrect_answers": [
+        "Biyotop",
+        "Habitat",
+        "Popülasyon"
+        ]
+},
+{
+        "category": "Biology",
+        "type": "multiple",
+        "difficulty": "medium",
+        "question": "Hangisi tüm canlıların ortak özelliğidir? ",
+        "correct_answer": "ATP üretmek",
+        "incorrect_answers": [
+        "Fotosentez yapmak",
+        "Çok hücreli olmak",
+        "Bir çekirdeğe sahip olmak"
+        ]
+}
+]
